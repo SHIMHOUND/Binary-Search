@@ -1,0 +1,36 @@
+main
+your_program
+dsada
+
+# Скомпилированные файлы
+*.o
+*.a
+*.so
+*.out
+*.exe
+*.dll
+*.lib
+*.obj
+*.pdb
+*.idb
+
+# Файлы IDE
+.vscode/
+.idea/
+
+# Файлы CMake
+CMakeCache.txt
+CMakeFiles/
+CMakeLists.txt.user
+
+# Папки, связанные с системой сборки
+build/
+bin/
+lib/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Логи
+*.log
